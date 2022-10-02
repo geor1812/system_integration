@@ -1,0 +1,2 @@
+Hello text file!
+This is another line
