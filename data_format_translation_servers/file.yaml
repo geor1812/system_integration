@@ -1,0 +1,6 @@
+file_type: YAML
+items: 3
+contents:
+   - type
+   - items
+   - contents
